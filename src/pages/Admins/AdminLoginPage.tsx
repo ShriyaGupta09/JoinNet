@@ -37,7 +37,7 @@ const AdminLoginPage: React.FC = () => {
         <div style={{ padding: '25px' }}>
             <div className="max-w-md mx-auto border-2 border-blue-100 rounded-lg shadow-lg p-6 mt-8 flex flex-col justify-between" style={{ minHeight: '500px', minWidth: '550px' }}>
 
-                <h2 className="text-3xl font-bold text-center mb-6">{formType === 'login' ? 'Login' : 'Sign Up'} to {category}</h2>
+                <h2 className="text-3xl font-bold text-center mb-6">{formType === 'login' ? 'Login' : 'Sign Up'}</h2>
 
 
                 <form onSubmit={handleFormSubmit} className="flex flex-col justify-center flex-grow space-y-4">
