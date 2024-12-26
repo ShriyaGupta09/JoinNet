@@ -1,4 +1,4 @@
-# RBAC Management System
+# JoinNet Management System
 
 This is a **React-based Role-Based Access Control (RBAC) project** designed to manage users, roles, and dashboards in an organized manner. The application is built using **Vite**, styled with **Tailwind CSS**, and leverages **shadcn/ui** for modern and responsive UI components.
 
